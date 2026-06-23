@@ -1,6 +1,6 @@
 # Tugas Laundry
 
-## Pemrograman Berorientasi Objek
+## Pemrograman Web Lanjut
 
 ---
 
